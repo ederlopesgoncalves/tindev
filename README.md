@@ -1,5 +1,5 @@
 <h4 align="center">
-    <img alt="Tin DEV" src="mobile/src/assets/logo@3x.png" width="300px" />
+    <img alt="Tin DEV" src="frontend/src/assets/logo.svg" width="300px" />
     <br/>
     <b>Encontre e de match com outros DEVs!</b> 🦸‍
 </h4>
